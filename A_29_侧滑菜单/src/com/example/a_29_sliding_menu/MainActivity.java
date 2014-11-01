@@ -31,7 +31,7 @@ public class MainActivity extends FragmentActivity {
 		FragmentTransaction ft = fManager.beginTransaction();
 		ft.add(MenuView.CONTAINER_ID, new FragmentMenu(), "FragmentMenu");
 		ft.add(AboveView.CONTAINER_ID, new FragmentAbove(), "FragmentAbove");
-		//提交
+		//提交额
 		ft.commit();
 		
 		mRootView.setMenuCanSliding(true);
