@@ -16,7 +16,7 @@ import com.example.a_29_sliding_menu.fragment.FragmentMenu;
 import com.example.a_29_sliding_menu.view.AboveView;
 import com.example.a_29_sliding_menu.view.MenuView;
 import com.example.a_29_sliding_menu.view.RootView;
-
+//nihao 
 public class MainActivity extends FragmentActivity {
 	
 	private RootView mRootView;
